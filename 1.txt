@@ -2,10 +2,4 @@
 2nd line
 3
 4line
-<<<<<<< HEAD
-main
-=======
 feature1test
->>>>>>> feature1
-
-??
